@@ -1,4 +1,4 @@
-###FRONTEND
+####FRONTEND
 
-bower install
-http-server (or any other server)
+1. bower install
+2. http-server (or any other server)
