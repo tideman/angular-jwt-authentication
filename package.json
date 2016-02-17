@@ -1,0 +1,33 @@
+{
+  "name": "angular-jwt-authentication",
+  "version": "1.0.0",
+  "description": "Example for authentication with JWT",
+  "main": "app.js",
+  "dependencies": {
+    "body-parser": "^1.15.0",
+    "cors": "^2.7.1",
+    "express": "^4.13.4",
+    "express-jwt": "^3.3.0",
+    "faker": "^3.0.1",
+    "jsonwebtoken": "^5.7.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tideman/angular-jwt-authentication.git"
+  },
+  "keywords": [
+    "angular",
+    "jwt"
+  ],
+  "author": "ing. P.T. Kroon <info@informatiestroomlijning.nl> (http://informatiestroomlijning.nl/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tideman/angular-jwt-authentication/issues"
+  },
+  "homepage": "https://github.com/tideman/angular-jwt-authentication"
+}

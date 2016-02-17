@@ -1,0 +1,19 @@
+{
+  "name": "Angular JWT Authentication",
+  "version": "0.0.0",
+  "homepage": "https://github.com/tideman/angular-jwt-authentication",
+  "authors": [
+    "ing. P.T. Kroon <tijmen.kroon@ciber.nl>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.5.0"
+  }
+}
